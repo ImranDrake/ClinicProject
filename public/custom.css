@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ITC Benguiat Std';
+    src: url('/fonts/BenguiatStd-Bold.woff') format('woff2'),
+        url('/fonts/BenguiatStd-Bold.woff2') format('woff');
+    font-weight:bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ITC Benguiat Std';
+    src: url('/fonts/BenguiatStd-Medium.woff') format('woff2'),
+        url('/fonts/BenguiatStd-Medium.woff2') format('woff');
+    font-weight:500;
+    font-style: normal;
+    font-display: swap;
+}
