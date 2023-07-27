@@ -81,9 +81,6 @@
 
                 </div>
                 <!-- Choose Your Doctor section end  -->
-                <p x-text="tab"></p>
-                <p x-text="tab2"></p>
-                <p x-text="slot1"></p>
                 <!-- Month section start  -->
                 <div x-data="{
                 
